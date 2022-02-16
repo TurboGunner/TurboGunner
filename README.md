@@ -26,7 +26,7 @@ If anyone is interested in doing any collaborative projects for either my academ
 
 ### Previous Work Experience
 
-I worked for 3 years at a non-profit charity organization affiliated with SEDOL (The Special Education District of Lake County) as the lead IT specialist, who managed domain and hosting infrastructure and budgeting, as well as training for organization members to be able to handle updates, direct contact for inquiries, and handling contacting members.
+I worked for 3 years at a non-profit charity organization affiliated with SEDOL (The Special Education District of Lake County) as the lead IT specialist; who managed domain and hosting infrastructure and budgeting, as well as training for organization members to be able to handle updates, direct contact for inquiries, and handling contacting members.
 
 I worked with an artist to create a storefront to sell their commissions, pre-made, and custom items. I handled the integration from the on-demand printing service and Magento, handled the payment authorization, managed email, hosting, and domain adminisstration, and handled the rollout of new products.
 
