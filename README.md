@@ -18,7 +18,7 @@ I like programming as a hobby from time to time, but I also have a vested intere
 
 >Simulation: EmberGen, VectorRayGen, Mantaflow
 
->Post: Photoshop (Stils), Premiere Pro (Video)
+>Post: Photoshop (Stills), Premiere Pro (Video)
 
 >Hard Surface Addons: Boxcutter, Hard-Ops, Decalmachine, BY-GEN, Cablerator
 
