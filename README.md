@@ -4,7 +4,7 @@ Hello, my name is Matthew!
 
 I have the most experience with Java, but I do leverage Kotlin, C#, and C++ as well depending on the project.
 
-### Education Stuff
+### Education Summary
 
 I am currently in UIUC as a freshman, and am planning to transfer into either CS or a different CS heavy major. I am a CA for CS 124, and currently am wanting to get into GPU accelerated VFX simulation, as well as applications to improve productity and acceessibility for those with disabilities in academia, as well as making it easier to keep track of important data such as sleep logs.
 
