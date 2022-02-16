@@ -13,9 +13,13 @@ I am currently in UIUC as a freshman, and am planning to transfer into either CS
 I like programming as a hobby from time to time, but I also have a vested interest in game development; where I have used Unity and now switched to Unreal Engine 5. I have been 3D modelling for over a year, and have been mostly focusing in procedural geometry, gas simulations, and hard surface modelling. I currently use:
 
 >Rendering, Main Software: E-Cycles (Blender)
+
 >Texturing: Substance Painter, Quixel Mixer
->Simulation: EmberGen, VectorRayGen, Mantaflow,
+
+>Simulation: EmberGen, VectorRayGen, Mantaflow
+
 >Post: Photoshop (Stils), Premiere Pro (Video)
+
 >Hard Surface Addons: Boxcutter, Hard-Ops, Decalmachine, BY-GEN, Cablerator
 
 If anyone is interested in doing any collaborative projects for either my academic or artistic interests, let me know!
