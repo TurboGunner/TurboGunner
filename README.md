@@ -6,15 +6,17 @@ I have the most experience with Java, but I do leverage Kotlin, C#, and C++ as w
 
 ### Education Summary
 
-I am currently in UIUC as a freshman, and am planning to transfer into either CS or a different CS heavy major. I am a CA (course assistant) for CS 124, and currently am aiming to get into GPU accelerated VFX simulation. Additionally, another primary focus of mine with programming is to build applications to improve productity and acceessibility for those with disabilities in academia, and to make it easier to keep track of important diagnostic data such as sleep logs.
+I am currently in UIUC as a sophomore. I was a CA (course assistant and then course associate) for CS 124, and have gotten into computational fluid dynamics powered by the GPU with driver level interop with the renderer and am currently working with DFT (density functional theory) to make a very novel and completely independent approach. Additionally, another primary focus of mine with programming is to build applications to improve productivity and acceessibility for those with disabilities in academia, and to make it easier to keep track of important diagnostic data such as sleep logs.
+
+I currently am also doing VFX research under an undergraduate research organization under SIGGRAPH. Currently, I am developing a novel method for conversion and analysis of 2D visual effects to 3D volumetrics.
 
 ### Interests
 
-I like programming as a hobby from time to time, but I also have a vested interest in game development; where I have used Unity and now switched to Unreal Engine 5. I have been 3D modelling for over a year, and have been mostly focusing in procedural geometry, gas simulations, and hard surface modelling. I currently use:
+I do programming as a hobby and profession, but I also have a vested interest in game development; where I have used Unity and now switched to Unreal Engine 5. I have been 3D modelling for over 2 years, and have been mostly focusing in procedural geometry, gas simulations, and hard surface modelling. I currently use:
 
->Rendering, Main Software: E-Cycles (Blender)
+>Rendering, Main Software: Blender
 
->Texturing: Substance Painter, Quixel Mixer
+>Texturing: Substance Painter, Substance Designer, Quixel Mixer
 
 >Simulation: EmberGen, VectorRayGen, Mantaflow
 
@@ -29,6 +31,10 @@ If anyone is interested in doing any collaborative projects for either my academ
 I worked for 3 years at a non-profit charity organization affiliated with SEDOL (The Special Education District of Lake County) as the lead IT specialist; who managed domain and hosting infrastructure and budgeting, as well as training for organization members to be able to handle updates, direct contact for inquiries, and handling contacting members.
 
 I worked with an artist to create a storefront to sell their commissions, pre-made, and custom items. I handled the integration from the on-demand printing service and Magento, handled the payment authorization, managed email, hosting, and domain adminisstration, and handled the rollout of new products.
+
+I did an internship with UIUC's CS department to develop cloud storage management (with Azure) in regards to accessibility technology with AR (augmented reality).
+
+I have done contract programming work for chemists in industry for inventory and creating data processing management tools.
 
 ### Contact Me
 
