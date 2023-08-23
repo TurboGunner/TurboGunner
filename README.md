@@ -2,11 +2,11 @@ Hello, my name is Matthew!
 
 ### Programming
 
-I have the most experience with Java, but I do leverage Kotlin, C#, and C++ as well depending on the project.
+I have the most experience with Julia, C#, and C++, but I do leverage Kotlin, Java, and Python as well depending on the project.
 
 ### Education Summary
 
-I am currently in UIUC as a sophomore. I was a CA (course assistant and then course associate) for CS 124, and have gotten into computational fluid dynamics powered by the GPU with driver level interop with the renderer and am currently working with DFT (density functional theory) to make a very novel and completely independent approach. Additionally, another primary focus of mine with programming is to build applications to improve productivity and acceessibility for those with disabilities in academia, and to make it easier to keep track of important diagnostic data such as sleep logs.
+I am currently in UIUC as a junior. I was a CA (course assistant and then course associate) for CS 124, and have gotten into computational fluid dynamics powered by the GPU with driver level interop with the renderer and am currently working with DFT (density functional theory) to make a very novel and completely independent approach. Additionally, another primary focus of mine with programming is to build applications to improve productivity and acceessibility for those with disabilities in academia, and to make it easier to keep track of important diagnostic data such as sleep logs.
 
 I currently am also doing VFX research under an undergraduate research organization under SIGGRAPH. Currently, I am developing a novel method for conversion and analysis of 2D visual effects to 3D volumetrics.
 
