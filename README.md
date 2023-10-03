@@ -2,7 +2,7 @@ Hello, my name is Matthew!
 
 ### Programming
 
-I have the most experience with Julia, CUDA, C#, and C++, but I do leverage Kotlin, Java, and Python as well depending on the project.
+I have the most experience with Julia, CUDA, C#, and C++, but I do leverage Kotlin, Java, and Python as well depending on the project. Graphics wise, I use Vulkan, GLSL to SPIRV, HLSL for DirectX and SPIRV compilation. I use SDL, GLFW for inputs, IMGUI and WPF + XAML for GUI runtimes.
 
 ### Education Summary
 
