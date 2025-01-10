@@ -6,7 +6,7 @@ I have the most experience with Julia, CUDA, C#, and C++, but I do leverage Kotl
 
 ### Education Summary
 
-I am currently in UIUC as a junior. I was a CA (course assistant and then course associate) for CS 124, and have gotten into computational fluid dynamics powered by the GPU with driver level interop with the renderer and am currently working with DFT (density functional theory) to make a very novel and completely independent approach. I am working on a volumetric renderer as a completely updated approach for research projects that I have in procedural geometry (for SIGGRAPH) and for real-time CFD. This uses OptiX and Vulkan.
+I am currently in UIUC as a senior. I was a CA (course assistant and then course associate) for CS 124, and have gotten into computational fluid dynamics powered by the GPU with driver level interop with the renderer and am currently working with DFT (density functional theory) to make a very novel and completely independent approach. I am working on a volumetric renderer as a completely updated approach for research projects that I have in procedural geometry (for SIGGRAPH) and for real-time CFD. This uses OptiX and Vulkan.
 
 Additionally, another primary focus of mine with programming is to build applications to improve productivity and accessibility for those with disabilities in academia, and to make it easier to keep track of important diagnostic data such as sleep logs.
 
