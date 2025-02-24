@@ -10,7 +10,7 @@ I am currently in UIUC as a senior. I was a CA (course assistant and then course
 
 Additionally, another primary focus of mine with programming is to build applications to improve productivity and accessibility for those with disabilities in academia, and to make it easier to keep track of important diagnostic data such as sleep logs.
 
-I currently am also doing VFX research under an undergraduate research organization under SIGGRAPH. Currently, I am developing a novel method for conversion and analysis of 2D visual effects to 3D volumetrics.
+I currently am also doing VFX research under an undergraduate research organization under SIGGRAPH. Currently, I did work on development of a method for conversion and analysis of 2D visual effects to 3D volumetrics.
 
 ### Interests
 
