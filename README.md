@@ -14,7 +14,7 @@ I currently am also doing VFX research under an undergraduate research organizat
 
 ### Interests
 
-I do programming as a hobby and profession, but I also have a vested interest in game development; where I have used Unity and now switched to Unreal Engine 5. I have been 3D modelling for over 2 years, and have been mostly focusing in procedural geometry, gas simulations, and hard surface modelling. I currently use:
+I do programming as a hobby and profession, but I also have a vested interest in game development; where I have used Unity and now switched to Unreal Engine 5. I have been 3D modelling for over 5 years, and have been mostly focusing in procedural geometry, gas simulations, and hard surface modelling. I currently use:
 
 >Rendering, Main Software: Blender
 
